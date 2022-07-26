@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03069D18288FE9F100EF54F8 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03069D17288FE9F100EF54F8 /* Calculator.swift */; };
 		03490551288D7AD500E7653F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03490550288D7AD500E7653F /* AppDelegate.swift */; };
 		03490553288D7AD500E7653F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03490552288D7AD500E7653F /* SceneDelegate.swift */; };
 		03490555288D7AD500E7653F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03490554288D7AD500E7653F /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03069D17288FE9F100EF54F8 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 		0349054D288D7AD500E7653F /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03490550288D7AD500E7653F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03490552288D7AD500E7653F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		0349054F288D7AD500E7653F /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				03069D17288FE9F100EF54F8 /* Calculator.swift */,
 				03490550288D7AD500E7653F /* AppDelegate.swift */,
 				03490552288D7AD500E7653F /* SceneDelegate.swift */,
 				03490554288D7AD500E7653F /* ViewController.swift */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03490555288D7AD500E7653F /* ViewController.swift in Sources */,
+				03069D18288FE9F100EF54F8 /* Calculator.swift in Sources */,
 				03490551288D7AD500E7653F /* AppDelegate.swift in Sources */,
 				03490553288D7AD500E7653F /* SceneDelegate.swift in Sources */,
 			);
